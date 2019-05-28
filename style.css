@@ -20,6 +20,16 @@ hr {
   font: 24;
   color: #ff3819;
 }
+
+#text_box{
+
+  border: 2px solid red;
+  width: 24px;
+  margin: auto;
+  padding:25px;
+  background: black;
+  color:white;
+}
 hr {
   height: 2px;
   color: #ff3189;
