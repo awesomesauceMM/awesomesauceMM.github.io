@@ -9,9 +9,9 @@ body {
   margin: 25px 100px;
   padding: 100px;
 }
-hl {
+hr {
   text-align: center;
-  font-family:"times new roman";
+  font-family:"Times New Roman";
   font: 24;
   color: #ff3819;
 }
