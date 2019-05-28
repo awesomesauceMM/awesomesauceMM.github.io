@@ -46,4 +46,11 @@ p{
 }
 #footer {
   text-align: center;
+}p {
+margin-top: 0px;
+margin-left: 100px;
+}
+p {
+padding-top: 33px;
+padding-left: 10px;
 }
