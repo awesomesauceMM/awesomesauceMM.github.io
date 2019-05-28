@@ -7,7 +7,7 @@ body {
     height: 600px;
     background: #ffab12;
     margin: auto 100px;
-    padding: 100px;
+    padding: 500px;
 
 }
 #section{
@@ -21,15 +21,6 @@ hr {
   color: #ff3819;
 }
 
-#text_box{
-
-  border: 2px solid red;
-  width: 24px;
-  margin: 20px;
-  padding:25px;
-  background: black;
-  color:white;
-}
 hr {
   height: 2px;
   color: #ff3189;
