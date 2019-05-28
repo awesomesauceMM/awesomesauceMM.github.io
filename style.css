@@ -4,7 +4,7 @@ body {
 }
   #main {
     width: 1000px;
-    height: 600px;
+    min-height: 600px;
     background: #ffab12;
     margin: auto 100px;
     padding: 10px;
