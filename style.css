@@ -11,7 +11,6 @@ body {
 
 }
 #section{
-
   text-align: left;
 }
 hr {
@@ -44,4 +43,10 @@ margin-left: 100px;
 p {
 padding-top: 33px;
 padding-left: 10px;
+}
+
+.fl {
+  float:left;
+  border-radius:50px;
+  border: red solid 4px;
 }
