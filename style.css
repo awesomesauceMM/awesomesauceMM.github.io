@@ -1,6 +1,6 @@
 body {
   background: #196dff;
-  text-align: center;
+  text-align: left;
 }
   #main {
     width: 1000px;
@@ -9,6 +9,10 @@ body {
     margin: auto 100px;
     padding: 100px;
 
+}
+#section{
+
+  text-align: left;
 }
 hr {
   text-align: center;
@@ -25,13 +29,11 @@ p{
   font-size:12px;
 
 }
-#header{
+#header {
   background-color: #66ccff;
   color: white;
   text-align: center;
 }
-#footer{
-
-text-align:center;
-
+#footer {
+  text-align: center;
 }
