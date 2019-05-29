@@ -41,8 +41,8 @@ margin-top: 0px;
 margin-left: 100px;
 }
 p {
-padding-top: 33px;
-padding-left: 10px;
+padding-top: auto;
+padding-left: auto;
 }
 
 .fl {
